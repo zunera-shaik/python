@@ -1,0 +1,4 @@
+d = float(input("enter the distance in km"))
+t = float(input("enter thee time in min"))
+speed = d/t
+print(speed)
