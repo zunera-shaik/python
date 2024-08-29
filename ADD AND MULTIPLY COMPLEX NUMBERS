@@ -1,0 +1,4 @@
+a = complex(input("format a+jb"))
+b = complex(input("format a+jb"))
+print(a+b)
+print(a*b)
