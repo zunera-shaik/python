@@ -1,0 +1,13 @@
+m = int(input("enter marks"))
+if(m>=90):
+    print("grade a")
+elif(m>=80):
+    print("grade b")
+elif(m>=70):
+    print("grade c")
+elif(m>=60):
+    print("grade d")
+elif(m>=50):
+    print("grade e")
+else:
+    print("failed")
