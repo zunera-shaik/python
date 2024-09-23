@@ -1,0 +1,6 @@
+l = [10,20,30,40]
+#before swapping
+print(l)
+#after swapping
+l.reverse()
+print(l)
