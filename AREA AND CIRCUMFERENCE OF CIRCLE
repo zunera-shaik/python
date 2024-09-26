@@ -1,5 +1,10 @@
 r = float(input("enter radius:"))
 area = 3.14*r*r
 circumference = 2*3.14*r
-print(area)
-print(circumference)
+print("Area of circle is: ",area)
+print("Circumference of circle is: " ,circumference)
+
+OUTPUT :
+enter radius:45
+Area of circle is:  6358.500000000001
+Circumference of circle is:  282.6
