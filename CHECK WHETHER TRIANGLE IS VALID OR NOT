@@ -1,7 +1,14 @@
-a = int(input())
-b = int(input())
-c = int(input())
+a = int(input("Enter a:"))
+b = int(input("Enter b:"))
+c = int(input("Enter c:"))
 if(a+b>c and a+c>b and b+c>a):
-    print("it is valid triangle:")
+    print("it is valid triangle")
 else:
-    print("it is not valid triangle:")
+    print("it is not valid triangle")
+
+OUTPUT :
+Enter a:3
+Enter b:4
+Enter c:5
+it is valid triangle
+
