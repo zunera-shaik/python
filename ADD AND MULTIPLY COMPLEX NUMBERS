@@ -1,4 +1,10 @@
-a = complex(input("format a+jb"))
-b = complex(input("format a+jb"))
-print(a+b)
-print(a*b)
+a = complex(input("format a+jb :"))
+b = complex(input("format a+jb :"))
+print("Addition of two complex numbers is: ",a+b)
+print("Multiplication of two complex numbers is: ",a*b)
+
+OUTPUT:
+format a+jb :3-4J
+format a+jb :2+3J 
+Addition of two complex numbers is:  (5-1j)
+Multiplication of two complex numbers is:  (18+1j)  
