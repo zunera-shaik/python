@@ -1,0 +1,22 @@
+#python program to print each character of a string and string length
+s = input("enter string:")
+count = 0
+for i in s:
+	print(i)
+	count =count+1
+	print("string length = ",count)
+
+OUTPUT:
+enter string:zunera
+z
+string length =  1
+u
+string length =  2
+n
+string length =  3
+e
+string length =  4
+r
+string length =  5
+a
+string length =  6
